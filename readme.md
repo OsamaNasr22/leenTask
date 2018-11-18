@@ -1,3 +1,24 @@
+
+
+<div>
+    <h1>Installation</h1>
+    <p>git clone https://github.com/OsamaNasr22/leenTask.git</p>
+    <p>cd projectname</p>
+    <p>composer install</p>
+    <p>php artisan key:generate</p>
+    <p>php artisan storage:link</p>
+    <p>create database with name "leentask" and import "leentask.sql" into it </p>
+    <p>php artisan serve to start the app on http://localhost:8000/</p>
+    
+
+
+
+
+
+</div>
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
